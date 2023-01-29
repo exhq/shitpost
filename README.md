@@ -1,2 +1,0 @@
-# shitpost
-"file hoster"
